@@ -1,1 +1,1 @@
-Holberton School SQL queries project
+# holbertonschool-higher_level_programming
